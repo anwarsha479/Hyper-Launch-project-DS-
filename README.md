@@ -19,7 +19,7 @@ This project is a simple, interactive data analysis application built using Pyth
  Dataset Used:
 
 * Title: Students Performance in Exams  
-* Source: [Kaggle Dataset Link](https://www.kaggle.com/datasets/spscientist/students*performance*in*exams)  
+* Source: (https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) 
 * File Format: CSV  
 
  Dataset Attributes:
